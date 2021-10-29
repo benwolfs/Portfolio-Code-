@@ -17,3 +17,12 @@ Here! link to my work [Database](https://github.com/INT222-Integrated-01-92-99/D
 Jenkins
 
 Here! link to my work [DevOps](https://github.com/INT222-Integrated-01-92-99/devops.git).
+
+#Below this is my case study work.
+
+## UI
+Figma
+
+Here! link to my work [UI](https://www.figma.com/file/Nz9UhxuEdHlzkS17X5w99F/Meditation-app?node-id=0%3A1).
+
+
