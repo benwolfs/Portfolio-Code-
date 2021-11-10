@@ -10,7 +10,9 @@ Here! link to my work [Frontend](https://github.com/INT222-Integrated-01-92-99/f
 ## Database
 MySQL
 
-Here! link to my work [Database](https://github.com/INT222-Integrated-01-92-99/DB.git).
+2020_folder is not a part of Integrated project
+2021_folder is a part of Integrated project.
+Here! link to my work [Database](https://github.com/benwolfs/DatabaseWork.git).
 
 
 ## DevOps
