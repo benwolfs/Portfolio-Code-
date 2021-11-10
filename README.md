@@ -10,8 +10,8 @@ Here! link to my work [Frontend](https://github.com/INT222-Integrated-01-92-99/f
 ## Database
 MySQL
 
-2020_folder is not a part of Integrated project<br />
-2021_folder is a part of Integrated project.<br />
+2020_folder is not a part of Integrated project (Oracle SQL Developer)<br />
+2021_folder is a part of Integrated project (MySQL Workbench)<br />
 Here! link to my work [Database](https://github.com/benwolfs/DatabaseWork.git).
 
 
