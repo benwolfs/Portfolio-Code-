@@ -11,7 +11,7 @@ Here! link to my work [Frontend](https://github.com/INT222-Integrated-01-92-99/f
 MySQL
 
 2020_folder is not a part of Integrated project<br />
-2021_folder is a part of Integrated project.
+2021_folder is a part of Integrated project.<br />
 Here! link to my work [Database](https://github.com/benwolfs/DatabaseWork.git).
 
 
